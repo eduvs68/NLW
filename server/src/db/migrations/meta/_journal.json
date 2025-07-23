@@ -8,6 +8,13 @@
       "when": 1752193951569,
       "tag": "0000_secret_shooting_star",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752451849676,
+      "tag": "0001_cuddly_blindfold",
+      "breakpoints": true
     }
   ]
 }
